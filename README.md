@@ -1,7 +1,7 @@
 # UnityProject
 ##MovementActionGame
 
-![image](https://github.com/kittyspet/UnityProject/Assets/Picture.png)
+
 
 Игра вдохновлялась различными механиками из других проектов и экшн-фильмами.
 Основной упор ставится на акробатику и разнообразие способов передвижения.
