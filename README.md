@@ -6,7 +6,7 @@
 На данный момент игра находится на ранней стадии разработке с проработкой основных механик
 
 ##Ссылка на Build
-
+https://drive.google.com/drive/folders/1KGlBicKsay4QYVIqcozambUbHg5bORBK?usp=drive_link
 
 ##Управление:
 * WASD - клавиши передвижения
